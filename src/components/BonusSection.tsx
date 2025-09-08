@@ -111,17 +111,17 @@ const BonusSection = () => {
         },
         {
           title: "Libro Recetas Economicas",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/4c397897-dc97-43a5-8a21-435cdf9f1766.png",
           value: 19
         },
         {
           title: "Libro Emprende Barritas Saludables",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/0c245371-f142-4815-904f-16ab4f54a00d.png",
           value: 19
         },
         {
           title: "Libro Mantequillas Naturales paso a paso",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/aee782a8-ce07-4611-b043-437adffdfef9.png",
           value: 19
         }
       ]
