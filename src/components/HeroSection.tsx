@@ -16,19 +16,6 @@ const HeroSection = () => {
             <span className="block">Sin Gluten y Sin Azúcar!</span>
           </h1>
           
-          <div className="max-w-2xl mx-auto mb-8">
-            <div className="relative aspect-video rounded-xl overflow-hidden shadow-2xl">
-              <iframe 
-                src="https://player.vimeo.com/video/1116524431?badge=0&autopause=0&player_id=0&app_id=58479" 
-                width="100%" 
-                height="100%" 
-                frameBorder="0" 
-                allow="autoplay; fullscreen; picture-in-picture; clipboard-write" 
-                title="Recetas Sin Gluten y Sin Azúcar" 
-                className="absolute inset-0 w-full h-full"
-              />
-            </div>
-          </div>
           
           <p className="text-xl md:text-2xl text-white/90 mb-8 leading-relaxed">
             Descubre el secreto para disfrutar de comidas deliciosas mientras cuidas tu salud y transformas tu cuerpo naturalmente

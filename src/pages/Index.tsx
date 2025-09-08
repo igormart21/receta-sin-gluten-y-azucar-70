@@ -2,6 +2,7 @@ import HeroSection from "@/components/HeroSection";
 import BenefitsSection from "@/components/BenefitsSection";
 import RecipeVarietySection from "@/components/RecipeVarietySection";
 import EbookContentSection from "@/components/EbookContentSection";
+import BonusSection from "@/components/BonusSection";
 import TestimonialCarousel from "@/components/TestimonialCarousel";
 import VideoSection from "@/components/VideoSection";
 import PricingSection from "@/components/PricingSection";
@@ -14,6 +15,7 @@ const Index = () => {
       <BenefitsSection />
       <RecipeVarietySection />
       <EbookContentSection />
+      <BonusSection />
       <TestimonialCarousel />
       <VideoSection />
       <PricingSection />
