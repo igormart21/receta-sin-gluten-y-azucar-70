@@ -49,17 +49,17 @@ const BonusSection = () => {
         },
         {
           title: "Libro 100 Mejores Batidos Saludables",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/de62fe33-51dc-49c2-9e44-4680efc54863.png",
           value: 19
         },
         {
           title: "Libro Recetas barritas saludables",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/b33268f9-8cfe-4b1b-8efb-c003a70562ae.png",
           value: 19
         },
         {
           title: "Libro 70 Recetas Freidora de Aire",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/4683dcea-34e4-4ae5-ad77-185edc64e427.png",
           value: 19
         }
       ]
@@ -70,27 +70,27 @@ const BonusSection = () => {
       bonuses: [
         {
           title: "Libro Milagro Metabólico",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/8aac715d-8715-455d-a752-a78b3d920233.png",
           value: 19
         },
         {
           title: "Libro Recetas Antiinflamatorias",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/b570e6c2-2522-43c6-9395-caa326ae0280.png",
           value: 19
         },
         {
           title: "Libro Delicias Para celíacos",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/6bd6b59d-f7df-489a-ac7a-3790e3fd1e69.png",
           value: 19
         },
         {
           title: "Libro Delicias Para Diabéticos",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/7467a548-7e9e-46ad-9d12-047e695762b9.png",
           value: 19
         },
         {
           title: "Libro Sanar desde el plato",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/4047d3e9-bd03-435e-8d96-a17c3f6f7375.png",
           value: 19
         }
       ]
@@ -101,12 +101,12 @@ const BonusSection = () => {
       bonuses: [
         {
           title: "Libro Emprende con la biblia",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/acf302a2-3bef-4605-be63-1607344bb9cf.png",
           value: 19
         },
         {
           title: "Libro Como Vender Snack Saludables",
-          image: "/public/placeholder.svg",
+          image: "/lovable-uploads/383258b0-cce1-4409-a6b5-4796fc0a9cca.png",
           value: 19
         },
         {
